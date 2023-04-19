@@ -1,0 +1,87 @@
+END USER LICENSE AGREEMENT ("EULA") FOR LEGENDS: AGE OF CHAOS
+
+This End User License Agreement ("EULA") is a legal agreement between you and the owner of the game server (hereinafter referred to as "Server Owner") for the use of the Legends: Age of Chaos game server (hereinafter referred to as the "Server") and any related software or materials made available by the Server Owner.
+
+ACCESS AND USE
+By accessing or using the Server, you agree to comply with these terms of service (the "Agreement"). You must be at least 18 years of age, or the legal age of majority in your jurisdiction, to access or use the Server. You are solely responsible for your own hardware, software, and internet connection, and you agree not to use the Server for any unlawful or unauthorized purposes.
+
+LICENSE GRANT
+Subject to the terms and conditions of this EULA, the Server Owner hereby grants you a non-exclusive, non-transferable, revocable license to access and use the Server for personal and non-commercial purposes.
+
+INTELLECTUAL PROPERTY
+All materials, content, and features of the Server, including but not limited to graphics, images, artwork, sound, music, text, and gameplay mechanics, are the exclusive property of the Server Owner, its affiliates, or its licensors, and are protected by Canadian and international copyright, trademark, patent, trade secret, and other intellectual property laws.
+
+You acknowledge and agree that any third-party intellectual property used in the Server, including but not limited to third-party trademarks, copyrighted works, and other proprietary materials, are the property of their respective owners. You are granted no right or license to use any third-party intellectual property without the prior written consent of the respective owner.
+
+DISCLAIMER OF INTELLECTUAL PROPERTY USE AND FAIR USE PROVISIONS
+Legends: Age of Chaos is not affiliated with Kru Interactive, LLC or Nexon Korea Corporation, the respective owners of the intellectual property used in the game, including but not limited to the Dark Ages MMO. The use of any Kru Interactive or Nexon Korea Corporation intellectual property in Legends: Age of Chaos is solely for the purpose of creating an entertaining and enjoyable gaming experience, and Legends: Age of Chaos makes no claim of ownership or endorsement of such intellectual property by Kru Interactive or Nexon Korea Corporation. Any reference to Kru Interactive, Nexon Korea Corporation, or their products, services, trademarks, or logos in the Server are the property of their respective owners.
+
+Additionally, certain aspects of Legends: Age of Chaos may contain original content that is protected under Canadian law. The use of such content is intended to fall within the scope of fair dealing or fair use and is not intended to infringe on any intellectual property rights. Legends: Age of Chaos makes no claim of ownership or endorsement of any third-party intellectual property or original content used in the Server beyond the fair dealing or fair use provisions of Canadian law.
+
+INDEMNIFICATION OF THIRD-PARTY INTELLECTUAL PROPERTY OWNERS
+You agree to indemnify, defend, and hold the Server Owner and its affiliates, licensors, and service providers, and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors, and assigns (collectively, the "Server Owner Parties") harmless from any claims, liabilities, damages, judgments, awards, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising out of or in connection with your use of any third-party intellectual property in the Server, your User Content, or your breach of this EULA.
+
+THIRD-PARTY TERMS AND CONDITIONS
+In addition to this EULA, your use of the Server may be subject to additional terms and conditions related to third-party intellectual property used in the Server. You acknowledge and agree that any use of third-party intellectual property in the Server is subject to the terms and conditions of the respective owner, and you are solely responsible for your compliance with such terms and conditions.
+
+USER CONTENT
+You agree that any content or materials submitted by you to the Server (hereinafter referred to as "User Content") are and shall remain your sole property. However, by submitting User Content to the Server, you grant the Server Owner a non-exclusive, worldwide, perpetual, irrevocable, royalty-free, sublicensable right to use, modify, reproduce, distribute, display, and create derivative works of the User Content, in any media now known or hereafter developed, for any purpose, including, without limitation, marketing and promotion of the Server.
+
+USER CONDUCT
+You agree to use the Server only for lawful purposes and in accordance with this EULA. You shall not, and shall not permit any third party to, directly or indirectly:
+
+(a) use the Server in a manner that could damage, disable, overburden, or impair the Server or interfere with any other party's use and enjoyment of the Server;
+
+(b) use the Server to engage in any activity that violates any applicable law or regulation, or that infringes on the rights of any third party;
+
+(c) engage in any conduct that restricts or inhibits any other user from using or enjoying the Server;
+
+(d) transmit any viruses, worms, defects, Trojan horses, or any items of a destructive nature;
+
+(e) use any automated or manual process to monitor or copy any content or materials on the Server without the Server Owner's prior written permission;
+
+(f) use any software or tool to disrupt or interfere with the normal operation of the Server or the experience of other users.
+
+USER ACCOUNTS
+To access the Server, you may be required to create an account by providing certain information, including, without limitation, your name, email address, and a password. You are responsible for maintaining the confidentiality of your account information and for all activities that occur under your account. You shall not share your account information with any third party or allow any third party to access your account.
+
+TERMINATION
+This EULA is effective until terminated by either party. The Server Owner may terminate this EULA at any time, without notice, in the event that you breach any of the terms and conditions of this EULA. Upon termination of this EULA, you shall immediately cease all use of the Server.
+
+PRIVACY POLICY
+The Server collects certain information about its players in order to operate the Server and provide a better gaming experience. This may include personal information such as your name, email address, and IP address. We will only use this information for the purposes of operating the Server and will not sell or share this information with third parties without your consent, except as required by law. We take reasonable measures to protect player data from unauthorized access or disclosure. By using the Server, you consent to the collection and use of your information in accordance with this Privacy Policy.
+
+DISCLAIMER OF WARRANTIES
+THE SERVER AND ANY RELATED SOFTWARE OR MATERIALS ARE PROVIDED "AS IS" AND WITHOUT WARRANTY OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. THE SERVER OWNER DOES NOT WARRANT THAT THE SERVER OR ANY RELATED SOFTWARE OR MATERIALS WILL BE ERROR-FREE OR UNINTERRUPTED, OR THAT DEFECTS WILL BE CORRECTED. YOU ASSUME ALL RESPONSIBILITY AND RISK FOR YOUR USE OF THE SERVER.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE SERVER OWNER BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE SERVER, INCLUDING, WITHOUT LIMITATION, LOST PROFITS, LOST DATA, OR BUSINESS INTERRUPTION, WHETHER BASED ON WARRANTY, CONTRACT, TORT (INCLUDING NEGLIGENCE), OR ANY OTHER LEGAL THEORY, EVEN IF THE SERVER OWNER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE SERVER OWNER'S TOTAL LIABILITY TO YOU FOR ALL DAMAGES SHALL NOT EXCEED THE AMOUNT PAID BY YOU TO THE SERVER OWNER, IF ANY, FOR ACCESSING THE SERVER.
+
+CODE OF CONDUCT
+Players of Legends: Age of Chaos are expected to behave in a manner that is respectful of others and does not disrupt the game environment. This includes refraining from harassment, cheating, hacking, exploiting game mechanics, or engaging in any other behavior that may be harmful to the Server or its players. You agree to abide by the rules set forth by the Server operator and to report any rule violations that you observe. Violation of the code of conduct may result in the termination of your access to the Server.
+
+INDEMNIFICATION OF THIRD-PARTY INTELLECTUAL PROPERTY OWNERS
+You agree to indemnify, defend, and hold harmless any third-party intellectual property owners whose intellectual property is used in the Server, and their respective affiliates, officers, directors, employees, contractors, agents, licensors, and suppliers, from and against any and all claims, damages, obligations, losses, liabilities, costs or debt, and expenses (including but not limited to attorney's fees) arising from or related to any claim or allegation that the use of such third-party intellectual property in the Server infringes upon the rights of any third party.
+
+It is important to note that these revised clauses are not exhaustive and may need to be further customized based on the specific third-party intellectual property used in your game. We strongly recommend consulting with a legal professional to ensure that your EULA is compliant with all applicable laws and regulations related to the use of third-party intellectual property.
+MODIFICATIONS TO THIS EULA
+
+The Server Owner reserves the right to modify this EULA at any time, without notice. Your continued use of the Server following any modifications to this EULA shall constitute your acceptance of such modifications.
+
+GOVERNING LAW AND DISPUTE RESOLUTION
+This EULA shall be governed by and construed in accordance with the laws of the jurisdiction in which the Server Owner is located, without giving effect to any choice or conflict of law provision or rule. Any dispute arising out of or in connection with this EULA shall be resolved exclusively through arbitration in accordance with the rules of the American Arbitration Association, and judgment upon the award rendered by the arbitrator(s) may be entered in any court having jurisdiction thereof.
+
+ENTIRE AGREEMENT
+This EULA constitutes the entire agreement between you and the Server Owner with respect to the use of the Server and supersedes all prior or contemporaneous communications and proposals, whether oral or written, between you and the Server Owner.
+
+SEVERABILITY
+If any provision of this EULA is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+
+ASSIGNMENT
+You may not assign or transfer this EULA or any of your rights or obligations hereunder without the prior written consent of the Server Owner. The Server Owner may assign or transfer this EULA or any of its rights or obligations hereunder without your prior written consent.
+
+WAIVER
+The failure of the Server Owner to exercise or enforce any right or provision of this EULA shall not constitute a waiver of such right or provision.
+
+By accessing or using the Server, you acknowledge that you have read this EULA, understand it, and agree to be bound by its terms and conditions. If you do not agree to the terms and conditions of this EULA, do not access or use the Server.
+
